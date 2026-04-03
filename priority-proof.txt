@@ -1,0 +1,38 @@
+========================================
+PRIORITY OF CREATION STATEMENT
+========================================
+
+Project: AmDisplay Lite - Amazon Affiliate WordPress Plugin
+Creator: Alex Cload
+Date of Priority Claim: April 3, 2026
+
+This document serves as a formal statement of priority of creation
+for the AmDisplay Lite WordPress plugin.
+
+I, Alex Cload, declare that:
+
+1. The concept, architecture, and core features of AmDisplay Lite
+   were conceived and developed beginning in March 2026.
+
+2. The unique features of this plugin include:
+   - Full Amazon Creators API integration with OAuth 2.0
+   - Support for regional endpoints (2.1, 2.2, 2.3)
+   - OffersV2 pricing data implementation
+   - 3 distinct product display templates (Box, Compact, List)
+   - Geolocation for international affiliate links
+   - Smart caching system
+
+3. This GitHub repository was created on March 23, 2026, to
+   establish public, verifiable proof of prior art.
+
+4. All code, documentation, and associated materials are
+   original work of the creator unless otherwise stated.
+
+This statement is made under penalty of perjury.
+
+Signed,
+
+Alex Cload
+April 3, 2026
+
+GitHub Repository: https://github.com/AmDisplayPro/amdisplay-lite
