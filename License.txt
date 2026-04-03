@@ -1,0 +1,18 @@
+# Proprietary License
+
+Copyright (c) 2026 [Alex Cload]
+
+Name: AmDisplay Lite
+
+All rights reserved.
+
+This repository and its contents are established for priority proof
+purposes only. No part of this repository may be used, reproduced,
+modified, distributed, or otherwise exploited without explicit
+written permission from the copyright holder.
+
+This repository is public for timestamp verification purposes only.
+Public visibility does not constitute a license to use, copy, or
+distribute the contents.
+
+For licensing inquiries, contact: [https://amdisplaypro.com/]
